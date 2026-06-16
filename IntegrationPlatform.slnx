@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/IntegrationPlatform.Api/IntegrationPlatform.Api.csproj" />
+    <Project Path="src/IntegrationPlatform.Application/IntegrationPlatform.Application.csproj" />
+    <Project Path="src/IntegrationPlatform.Contracts/IntegrationPlatform.Contracts.csproj" />
+    <Project Path="src/IntegrationPlatform.Domain/IntegrationPlatform.Domain.csproj" />
+    <Project Path="src/IntegrationPlatform.Infrastructure/IntegrationPlatform.Infrastructure.csproj" />
+    <Project Path="src/IntegrationPlatform.Worker/IntegrationPlatform.Worker.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/IntegrationPlatform.IntegrationTests/IntegrationPlatform.IntegrationTests.csproj" />
+    <Project Path="tests/IntegrationPlatform.UnitTests/IntegrationPlatform.UnitTests.csproj" />
+  </Folder>
+</Solution>
